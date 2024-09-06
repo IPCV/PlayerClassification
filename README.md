@@ -1,1 +1,1 @@
-Project page for Soccer Action Spotting paper
+Project page for Player Classification paper
