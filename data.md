@@ -32,7 +32,7 @@ We extend the annotations of the 100 test games in the dataset. Specifically, we
 </style>
 
 <div class="table-container">
-<table>
+<table style="width:50px;">
   <tr>
     <th>Match</th>
     <th><center>Kits</center><embed src="../assets/kits/letters.svg" /></th>
@@ -245,7 +245,7 @@ We extend the annotations of the 100 test games in the dataset. Specifically, we
 </div>
 
 <div class="table-container">
-<table>
+<table style="width:50px;">
   <tr>
     <th>Match</th>
     <th><center>Kits</center><embed src="../assets/kits/letters.svg" /></th>
@@ -458,7 +458,7 @@ We extend the annotations of the 100 test games in the dataset. Specifically, we
 </div>
 
 <div class="table-container">
-<table>
+<table style="width:50px;">
   <tr>
     <th>Match</th>
     <th><center>Kits</center><embed src="../assets/kits/letters.svg" /></th>
