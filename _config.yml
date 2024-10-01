@@ -13,13 +13,13 @@ author: IMVA
 
 # --- List of links in the navigation bar --- #
 
-# navbar-links:
-#   Demos: "demos"
-#   #Architecture: "architecture"
-#   About us:
-#     - Juan F. Montesinos: "https://juanmontesinos.com"
-#     - Venkatesh S. Kadandale: "https://vskadandale.github.io"
-#     - Gloria Haro: "https://www.upf.edu/web/gloria-haro"
+navbar-links:
+  Project: "/"
+  Data: "data"
+  About us:
+    - Alejandro Cartas: "http://gorayni.github.io/"
+    - Coloma Ballester: "https://www.upf.edu/web/coloma-ballester"
+    - Gloria Haro: "https://www.upf.edu/web/gloria-haro"
 
 # --- Logo --- #
 

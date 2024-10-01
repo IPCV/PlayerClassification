@@ -10,7 +10,13 @@ We conduct our experiments using the [SoccerNet-V2 dataset](https://www.soccer-n
 
 We extend the annotations of the 100 test games in the dataset. Specifically, we manually segment and label approximately 80K people in the field aided by [PointRend](https://ai.meta.com/research/publications/pointrend-image-segmentation-as-rendering/) and [Segment Anything](https://segment-anything.com/). The annotated classes correspond to player, goalkeeper, referee, or other (e.g. technical staff in the field).
 
+## Download
+
+You can download the annotated test matches <a target="_blank" href="https://drive.google.com/file/d/1p8SzA92HBJ-02awAEYNbJb2ukL-0F9ND/view?usp=sharing">here</a>.
+
 ## Annotated Test Matches
+
+The annotated playing kits of the test matches are the following:
 
 <style>
     .table-container {
@@ -657,3 +663,7 @@ We extend the annotations of the 100 test games in the dataset. Specifically, we
   </tr>      
 </table>
 </div>
+
+## Ablation Study Training Matches
+
+## Seen and Unseen Test Matches
