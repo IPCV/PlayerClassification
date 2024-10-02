@@ -12,7 +12,7 @@ We extend the annotations of the 100 test games in the dataset. Specifically, we
 
 ## Download
 
-You can download the annotated test matches <a target="_blank" href="https://drive.google.com/file/d/1p8SzA92HBJ-02awAEYNbJb2ukL-0F9ND/view?usp=sharing">here</a>.
+You can download the annotated test matches in CVAT format <a target="_blank" href="https://drive.google.com/file/d/13pr5cCV0zhCj6fO82OX7vIBOF-93yAbC/view?usp=sharing">here</a>.
 
 ## Annotated Test Matches
 
