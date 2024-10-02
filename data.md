@@ -38,7 +38,7 @@ The annotated playing kits of the test matches are the following:
 </style>
 
 <div class="table-container">
-<table style="width:460px;">
+<table style="width:470px;">
   <tr>
     <th>ID</th>
     <th>Match</th>
@@ -398,7 +398,7 @@ The annotated playing kits of the test matches are the following:
 </div>
 
 <div class="table-container">
-<table style="width:460px;">
+<table style="width:470px;">
   <tr>
     <th>ID</th>
     <th>Match</th>
